@@ -4,7 +4,11 @@
 
 
 
-### Before reainforcment learning 
+### Before No Learning Applied It Was Really Hard For a Car to reach Top
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://drive.google.com/file/d/1U3YQG4piauGHCbYVSTI_hzXFeP3GcHrQ/view?usp=sharing)
 
+### After Applying Reinforcment Learning the Car reached Top of Mountain easily
+
+
+![Alt Text](https://drive.google.com/file/d/10f3_6zyxweOe9ytGX2BUixYFrP1XMd5H/view?usp=sharing)
